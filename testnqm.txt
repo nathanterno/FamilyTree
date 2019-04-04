@@ -1,0 +1,16 @@
+Insert 1 Parent 1 Marriage 0
+Insert 2 Parent 2 Marriage 1
+Insert 3 Parent 0 Marriage 1 Marriage 4
+Insert 4 Parent 2 Marriage 3
+Insert 5 Parent 3 Marriage 0
+Insert 6 Parent 0 Marriage 3
+Insert 7 Parent 0 Marriage 2
+Insert 8 Parent 0 Marriage 2
+Insert 9 Parent 0 Marriage 4
+Insert 10 Parent 2 Marriage 0
+Family 1 Husband 2 Wife 3 Child 1
+Family 2 Husband 7 Wife 8 Child 2 Child 4
+Family 3 Husband 4 Wife 6 Child 5
+Family 4 Husband 9 Wife 3 Child 0
+Check
+Relate 1 2
